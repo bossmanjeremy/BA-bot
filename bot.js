@@ -1,4 +1,5 @@
 const { Client, Intents, Message } = require('discord.js');
+const Discord = require('discord.js')
 const noblox = require('noblox.js');
 const config = require('./config.json')
 const Token = config.Token
